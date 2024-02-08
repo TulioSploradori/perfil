@@ -1,7 +1,7 @@
 <div style="display: inline_block"><br>
  <H3>Olá seja bem vindo, <br>
   me chamo Túlio Dantas Sploradori, <br>
-  sou desenvolvedor Back-end da equipe de credito New Revenue Streams<H3/>
+  sou desenvolvedor Back-end da equipe de Payments em core-banking<H3/>
  <H4>Essas sao algumas tecnologias que conheço:<H4/>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
